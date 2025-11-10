@@ -124,14 +124,9 @@ header nav ul li a
 
 /* MAIN-IMAGE */
 
-#main-image
-{
+#main-image {
     height: 580px;
-    #main-image 
-    { 
-        background: url("main.jpg") no-repeat center;
-}
-
+    background: url("main.jpg") no-repeat center;
 }
 
 #main-image h2
@@ -189,19 +184,16 @@ header nav ul li a
     margin-bottom: 20px;
 }
 
-#step-1
-{
-    background: url("images/steps-icon-1.png") no-repeat top center;
+#step-1 {
+    background: url("steps-icon-1.png") no-repeat top center;
 }
 
-#step-2
-{
-    background: url("images/steps-icon-2.png") no-repeat top center;
+#step-2 {
+    background: url("steps-icon-2.png") no-repeat top center;
 }
 
-#step-3
-{
-    background: url("images/steps-icon-3.png") no-repeat top center;
+#step-3 {
+    background: url("steps-icon-3.png") no-repeat top center;
 }
 
 /* POSSIBILITIES */
@@ -402,3 +394,4 @@ footer h1
     color: #777;
 
 }
+
